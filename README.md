@@ -1,3 +1,3 @@
 # LocationTest
-Show Current Location
-locationtests.nelify.app
+Show Current Location <br>
+https://www.locationtests.nelify.app
